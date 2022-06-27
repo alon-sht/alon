@@ -34,7 +34,7 @@ def mkdn(link,img,name):
 col1, col2 = st.columns(2)
 col3,col4 = st.columns(2)
 
-wa_link=r"https://wa.me/972547592228?text=Hi%252C%20I%20found%20your%20suitcase"
+wa_link=f"https://api.whatsapp.com/send/?phone=972547592228&text=Hi%2C+I+found+your+suitcase"
 wa_photo=im('1lbNxpJumlR-awz1Y51EApxcLQhwtuJ3w')
 fb_link=r"https://m.me/alon.shtrikman"
 fb_photo=im('1lTzhTaGFtLPOZS_AtCw6fPnu9RJZzcAi')
