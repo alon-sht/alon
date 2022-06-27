@@ -24,7 +24,7 @@ def im(id):
 
 def mkdn(link,img,name):
     return f"""
-            <a href="{link}" style="font-size: 25px; text-decoration: none">
+            <a href="{link}" style="font-size: 20px; text-decoration: none">
             <img src="{img}" width="70" height="70" class="center"/>
             {name}
             </a>
