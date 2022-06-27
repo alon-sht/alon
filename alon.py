@@ -52,7 +52,7 @@ col1.markdown(mkdn(wa_link,wa_photo,'WhatsApp'),unsafe_allow_html=True)
 col2.markdown(mkdn(fb_link,fb_photo,'Facebook Messanger'),unsafe_allow_html=True)
 
 # col3.markdown(f"### [Email]({mail_link})",unsafe_allow_html=True)
-col3.markdown(mkdn(mail_link,mail_photo,'Email'),unsafe_allow_html=True)
+col3.markdown(mkdn(mail_link,mail_photo,'alon.shtrikman@gmail.com'),unsafe_allow_html=True)
 
 # col4.markdown(f"### [+972-54-7592228]({phone_link})",unsafe_allow_html=True)
 col4.markdown(mkdn(phone_link,phone_photo,'+972-54-759-2228'),unsafe_allow_html=True)
